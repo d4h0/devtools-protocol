@@ -15872,6 +15872,7 @@
                             "name": "canAccessOpener",
                             "description": "Whether the opened window has access to the originating window.",
                             "experimental": true,
+                            "optional": true, 
                             "type": "boolean"
                         },
                         {
